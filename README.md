@@ -1,13 +1,10 @@
 <div align="center">
   <h2>Mars Nova</h2>   
-  <br>
 </div>
 
 <h3 align='center'><i>&nbsp; Work with Optimism, Hope for the Best!</i></h3>
 
 <br>
-
-### <p align="center">My Technical Skills</p>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,java,javascript,php,cpp,cs,python,dotnet,solidity,ruby,threejs,wordpress,django,ai,cloudflare,fastapi,firebase,tailwind&perline=10"/>
